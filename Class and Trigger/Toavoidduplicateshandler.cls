@@ -1,8 +1,6 @@
 public class ToAvoidDuplicateHandler {
 
-    
-
-     public static void preventDuplicate(list<Account> acclist){
+    public static void preventDuplicate(list<Account> acclist){
 
         for (Account a : acclist){
 
